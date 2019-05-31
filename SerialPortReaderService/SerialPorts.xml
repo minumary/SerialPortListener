@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Ports>
+  <BarcodePort>
+    <Name>COM3</Name>
+    <Baud>115200</Baud>
+    <Parity>None</Parity>
+    <DataBits>8</DataBits>
+    <StopBits>One</StopBits>
+  </BarcodePort>
+  <RFIDPort>
+    <Name>COM4</Name>
+    <Baud>9600</Baud>
+    <Parity>None</Parity>
+    <DataBits>8</DataBits>
+    <StopBits>One</StopBits>
+  </RFIDPort>
+</Ports>
